@@ -1,1 +1,8 @@
 Testar igen utan att pusha innan merge
+
+$ git log
+commit 7252d595458170083ba3cfe8fb1592ec7bcf9bbb (HEAD -> main, NewBranch)
+Author: unknown <frridaa_johansson@hotmail.com>
+Date:   Thu Nov 5 15:44:41 2020 +0100
+
+    Second commit in new Branch
